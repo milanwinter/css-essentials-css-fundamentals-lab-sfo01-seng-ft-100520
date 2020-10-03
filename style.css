@@ -36,6 +36,8 @@ figure figcaption {
 }
 
 #details {
+  margin-left:auto;
+  margin-right:auto;
   display:block;
   text-align:center
 }
