@@ -29,7 +29,7 @@ figure figcaption {
 }
 
 p#featured-property p {
-  display:block
+  display:block;
   text-align: center;
   width: 800px;
 }
