@@ -41,7 +41,8 @@ figure figcaption {
   display:block;
   text-align:center
 }
-#details div {
-  float:left;
 
+.left {
+  float:left;
+  width:25%;
 }
