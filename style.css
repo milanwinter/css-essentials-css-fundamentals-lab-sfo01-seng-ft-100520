@@ -38,3 +38,6 @@ figure figcaption {
 #details {
   display:block;
 }
+#deatails div {
+  float:left;
+}
