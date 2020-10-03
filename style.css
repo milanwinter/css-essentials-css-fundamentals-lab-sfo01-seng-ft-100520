@@ -13,7 +13,10 @@ h1 {
   margin-left: auto;
   margin-right: auto;
 }
-
+nav {
+  text-align: center;
+  display: block;
+}
 nav a {
   margin-left: auto;
   margin-right: auto;
