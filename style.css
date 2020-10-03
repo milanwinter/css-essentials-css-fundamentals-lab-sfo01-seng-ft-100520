@@ -39,7 +39,8 @@ figure figcaption {
   margin-left:auto;
   margin-right:auto;
   display:block;
-  text-align:center
+  text-align:center;
+  background-color: red;
 }
 
 .left {
