@@ -18,8 +18,6 @@ nav {
   display: block;
 }
 nav a {
-  margin-left: auto;
-  margin-right: auto;
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
