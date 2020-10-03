@@ -46,4 +46,5 @@ figure figcaption {
 .left {
   float:left;
   width:25%;
+  background-color: red;
 }
