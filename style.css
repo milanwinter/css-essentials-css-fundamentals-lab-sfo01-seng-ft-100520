@@ -15,7 +15,7 @@ h1 {
 }
 
 nav a {
-  margin:auto;
+  margin-left:auto;
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
